@@ -8,10 +8,8 @@ We prepared a prototype of a machine learning model for a company that develops 
 ```
 git clone https://github.com/filzamazahir/GoldMining-DataRegression.git
 ```
-Make sure to have pip installed, then do 
-```
-pip install -r requirements.txt
-```
+Make sure to have pandas, numpy, scikit-learn, and matplotlib libraries installed.
+
 Run ```goldmining_regression.ipynb```
 
 
